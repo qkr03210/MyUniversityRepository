@@ -1,0 +1,187 @@
+C:\Users\user\Desktop\3학년\소공\JP_Food\bin\Debug\JP_Food.exe.config
+C:\Users\user\Desktop\3학년\소공\JP_Food\bin\Debug\JP_Food.exe
+C:\Users\user\Desktop\3학년\소공\JP_Food\bin\Debug\JP_Food.pdb
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.Form1.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.Properties.Resources.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.exe
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.pdb
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.Customer.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.Employee.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.Authority.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.Employee_Register.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\obj\Debug\JP_Food.Employee_Update.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\3학년\소공\JP_Food\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\bin\Debug\JP_Food.exe.config
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.exe
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.pdb
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\bin\Debug\JP_Food.exe
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\bin\Debug\JP_Food.pdb
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.Authority.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.Customer.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.Employee.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_Register.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_Update.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.Form1.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.Properties.Resources.resources
+C:\Users\user\Desktop\3학년\소공\JP_Food\JP_Food\obj\Debug\JP_Food.csproj.GenerateResource.Cache
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\bin\Debug\JP_Food.exe.config
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.exe
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.pdb
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\bin\Debug\JP_Food.exe
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\bin\Debug\JP_Food.pdb
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.csprojResolveAssemblyReference.cache
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Authority.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Customer.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_Register.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_Update.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Form1.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Properties.Resources.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.csproj.GenerateResource.Cache
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_register.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_display.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_detail_diplay.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Calendar.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\bin\Debug\JP_Food.exe.config
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.exe
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.pdb
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\bin\Debug\JP_Food.exe
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\bin\Debug\JP_Food.pdb
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\bin\Debug\MySql.Data.xml
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.csprojResolveAssemblyReference.cache
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Authority.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Calendar.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Customer.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_Register.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_Update.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Form1.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_detail_diplay.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_display.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_register.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Properties.Resources.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.csproj.GenerateResource.Cache
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Disuse.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Inquiry.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Material.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Release.resources
+C:\Users\guswn\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Warehousing.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Disuse.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Inquiry.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Material.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Release.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Warehousing.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_recipe_search.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_delete.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_delete.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.password_verify.resources
+C:\Users\배영준\Desktop\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.password_update.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\bin\Debug\JP_Food.exe.config
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\bin\Debug\JP_Food.exe
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\bin\Debug\JP_Food.pdb
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\bin\Debug\MySql.Data.dll
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\bin\Debug\MySql.Data.xml
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.csprojResolveAssemblyReference.cache
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Authority.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Calendar.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Customer.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_delete.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_Register.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Employee_Update.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Disuse.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Inquiry.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Material.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Release.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Food_Warehousing.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_delete.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_detail_diplay.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_display.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_recipe_search.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Menu_register.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.password_update.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.password_verify.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Properties.Resources.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.csproj.GenerateResource.Cache
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.exe
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.pdb
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.UserControl1.resources
+C:\Users\sungyoung\Desktop\최성영\소공\구현\JP_Food2\JP_Food2\JP_Food\JP_Food\obj\Debug\JP_Food.Form1.resources
+C:\Users\박상준\Desktop\JP_Food\bin\Debug\JP_Food.exe.config
+C:\Users\박상준\Desktop\JP_Food\obj\Debug\JP_Food.exe
+C:\Users\박상준\Desktop\JP_Food\obj\Debug\JP_Food.pdb
+F:\데스크탑\소공 관련\JP_Food\bin\Debug\JP_Food.exe.config
+F:\데스크탑\소공 관련\JP_Food\bin\Debug\JP_Food.exe
+F:\데스크탑\소공 관련\JP_Food\bin\Debug\JP_Food.pdb
+F:\데스크탑\소공 관련\JP_Food\bin\Debug\MySql.Data.xml
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.csprojAssemblyReference.cache
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Authority.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Calendar.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Customer.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Employee.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Employee_delete.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Employee_Register.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Employee_Update.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Disuse.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Inquiry.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Material.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Release.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Warehousing.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Form1.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Menu.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_delete.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_detail_diplay.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_display.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_recipe_search.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_register.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.password_update.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.password_verify.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.Properties.Resources.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.UserControl1.resources
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.csproj.GenerateResource.cache
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.csproj.CoreCompileInputs.cache
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.csproj.CopyComplete
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.exe
+F:\데스크탑\소공 관련\JP_Food\obj\Debug\JP_Food.pdb
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\bin\Debug\JP_Food.exe.config
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\bin\Debug\JP_Food.exe
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\bin\Debug\JP_Food.pdb
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\bin\Debug\MySql.Data.xml
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.csprojAssemblyReference.cache
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Authority.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Calendar.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Customer.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Employee.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Employee_delete.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Employee_Register.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Employee_Update.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Disuse.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Inquiry.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Material.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Release.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Food_Warehousing.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Form1.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Menu.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_delete.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_detail_diplay.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_display.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_recipe_search.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Menu_register.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.password_update.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.password_verify.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.Properties.Resources.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.UserControl1.resources
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.csproj.GenerateResource.cache
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.csproj.CoreCompileInputs.cache
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.csproj.CopyComplete
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.exe
+E:\프로젝트용 참고 자료\외장하드\소공 관련\JP_Food\obj\Debug\JP_Food.pdb
